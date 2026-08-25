@@ -38,3 +38,5 @@ build/
 *.egg-info/
 *.tmp
 *.cache
+logs/
+.env
