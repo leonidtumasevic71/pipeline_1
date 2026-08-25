@@ -1,0 +1,40 @@
+# Логи и секреты
+logs/
+*.env
+*.log
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Системные файлы Linux
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+.env/
+
+# Сборки и временные файлы
+dist/
+build/
+*.egg-info/
+*.tmp
+*.cache
